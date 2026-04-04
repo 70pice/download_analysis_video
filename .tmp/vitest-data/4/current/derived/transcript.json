@@ -1,0 +1,26 @@
+{
+  "language": "en",
+  "fullText": "Open on the hero detail with no setup. Shift into the core action and show the environment reacting. Reveal the lifestyle payoff with a stronger visual contrast. Close on a reusable branded gesture or visual signature.",
+  "segments": [
+    {
+      "startMs": 0,
+      "endMs": 8000,
+      "text": "Open on the hero detail with no setup."
+    },
+    {
+      "startMs": 8000,
+      "endMs": 16000,
+      "text": "Shift into the core action and show the environment reacting."
+    },
+    {
+      "startMs": 16000,
+      "endMs": 24000,
+      "text": "Reveal the lifestyle payoff with a stronger visual contrast."
+    },
+    {
+      "startMs": 24000,
+      "endMs": 32000,
+      "text": "Close on a reusable branded gesture or visual signature."
+    }
+  ]
+}

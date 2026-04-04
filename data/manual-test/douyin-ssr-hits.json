@@ -1,0 +1,1607 @@
+{
+  "topKeys": [
+    "app"
+  ],
+  "hits": [
+    {
+      "path": "app.pathname",
+      "value": "/video/7621023599083785498"
+    },
+    {
+      "path": "app.tccConfig.LiveSmallWindow.durationTime",
+      "value": "10"
+    },
+    {
+      "path": "app.tccConfig.activity_task_modal.0.backgroundImg",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/jifuqi_bg.png"
+    },
+    {
+      "path": "app.tccConfig.browserPluginInfo.pluginUrlList.0.url",
+      "value": "https://chrome.google.com/webstore/detail/fdffdpjbnemlmpnmkbaofjhbefbmalbo"
+    },
+    {
+      "path": "app.tccConfig.browserPluginInfo.pluginUrlList.1.url",
+      "value": "https://ext.chrome.360.cn/webstore/detail/olloggcecbahpigpcokeiiaacmanomak"
+    },
+    {
+      "path": "app.tccConfig.browserPluginInfo.pluginUrlList.2.url",
+      "value": "https://microsoftedge.microsoft.com/addons/detail/cnjonjfglebpinibkflkagoonlgbaahl"
+    },
+    {
+      "path": "app.tccConfig.carnival_config.loopDuration",
+      "value": "900000"
+    },
+    {
+      "path": "app.tccConfig.carnival_config.delayDuration",
+      "value": "30000"
+    },
+    {
+      "path": "app.tccConfig.client_repair_exe.cdnUrl",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/client/douyin_repair_auto_update_1.exe"
+    },
+    {
+      "path": "app.tccConfig.client_repair_exe.cdnUrl2",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/client/douyin_repair_auto_update_2.exe"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/apps/douyin_web/src/pages/Discover/[[tag]].tsx",
+      "value": "精选页"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/apps/douyin_web/src/pages/DiscoverReal/index.tsx",
+      "value": "精选页"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/apps/douyin_web/src/pages/Video/[id].tsx",
+      "value": "视频详情页"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/libs/ui/src/player/template/RecommendVideo/index.tsx",
+      "value": "推荐播放器"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/libs/ui/src/player/template/CreatorCenterPlayer/index.tsx",
+      "value": "创中播放器"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/libs/ui/src/player/template/DetailPlayer/index.tsx",
+      "value": "视频详情播放器"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/libs/ui/src/player/template/FollowVideo/index.tsx",
+      "value": "关注播放器"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/libs/ui/src/player/template/FriendVideo/index.tsx",
+      "value": "朋友播放器"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/libs/ui/src/player/template/ImPureDashVideo/index.tsx",
+      "value": "IM播放器"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/libs/ui/src/player/template/ModalPlayer/index.tsx",
+      "value": "模态播放器"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/libs/ui/src/player/template/PreviewPlayer/index.tsx",
+      "value": "预览卡片播放器"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/libs/ui/src/player/template/PureVideo/index.tsx",
+      "value": "专题页顶部播放器"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/libs/ui/src/player/template/SearchDashPlayer/index.tsx",
+      "value": "搜索播放器"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/libs/ui/src/player/template/SearchMediaPlayer/index.tsx",
+      "value": "搜索播放器"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/libs/ui/src/player/template/SearchMiniDashPreviewPlayer/index.tsx",
+      "value": "搜索播放器"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/libs/ui/src/player/template/SearchPlayer/index.tsx",
+      "value": "搜索播放器"
+    },
+    {
+      "path": "app.tccConfig.component_to_scene_map.packages/libs/ui/src/components/UserVideo/index.tsx",
+      "value": "个人页卡片播放器"
+    },
+    {
+      "path": "app.tccConfig.ctr1.duration",
+      "value": "60000"
+    },
+    {
+      "path": "app.tccConfig.download_impc_info.apk",
+      "value": "https://lf-impc.douyinstatic.com/obj/tos-aweme-im-pc/7094550955558967563/releases/258671337/1.1.30/win32-ia32/DouyinChat-ia32-douyin.exe"
+    },
+    {
+      "path": "app.tccConfig.download_impc_info.win64Apk",
+      "value": "https://lf-impc.douyinstatic.com/obj/tos-aweme-im-pc/7094550955558967563/releases/258671337/1.1.30/win32-x64/DouyinChat-x64-douyin.exe"
+    },
+    {
+      "path": "app.tccConfig.download_impc_info.macApk",
+      "value": "https://lf-impc.douyinstatic.com/obj/tos-aweme-im-pc/7094550955558967563/releases/258671337/1.1.30/darwin-x64/DouyinChat.dmg"
+    },
+    {
+      "path": "app.tccConfig.download_impc_info.titDesc",
+      "value": "随时随地,相互陪伴"
+    },
+    {
+      "path": "app.tccConfig.download_info.apk",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/win32-ia32/douyin-v7.6.0-win32-ia32-douyin.exe"
+    },
+    {
+      "path": "app.tccConfig.download_info.apkDownloader",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/win32-ia32/douyin-downloader-v7.6.0-win32-ia32-douyin.exe"
+    },
+    {
+      "path": "app.tccConfig.download_info.video",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/download/douyin_pc_client.mp4"
+    },
+    {
+      "path": "app.tccConfig.download_info.allChannel.20003",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/win32-ia32/douyin-downloader-v7.6.0-win32-ia32-douyinwallpaper.exe"
+    },
+    {
+      "path": "app.tccConfig.download_info.allChannel.20004",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/win32-ia32/douyin-downloader-v7.6.0-win32-ia32-douyinpersonal.exe"
+    },
+    {
+      "path": "app.tccConfig.download_info.allChannel.20005",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/win32-ia32/douyin-downloader-v7.6.0-win32-ia32-douyinvideo.exe"
+    },
+    {
+      "path": "app.tccConfig.download_info.allChannel.20006",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/win32-ia32/douyin-downloader-v7.6.0-win32-ia32-douyinlogin.exe"
+    },
+    {
+      "path": "app.tccConfig.download_info.allChannel.20007",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/win32-ia32/douyin-downloader-v7.6.0-win32-ia32-douyinpush.exe"
+    },
+    {
+      "path": "app.tccConfig.download_info.allChannel.20008",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/win32-ia32/douyin-downloader-v7.6.0-win32-ia32-douyincold.exe"
+    },
+    {
+      "path": "app.tccConfig.download_info.allChannel.20009",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/win32-ia32/douyin-downloader-v7.6.0-win32-ia32-douyinsave.exe"
+    },
+    {
+      "path": "app.tccConfig.download_info.allChannel.20010",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/win32-ia32/douyin-downloader-v7.6.0-win32-ia32-douyinoperate.exe"
+    },
+    {
+      "path": "app.tccConfig.download_info.allChannel.20011",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/win32-ia32/douyin-downloader-v7.6.0-win32-ia32-douyindowngrade.exe"
+    },
+    {
+      "path": "app.tccConfig.download_info.allChannel.20012",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/win32-ia32/douyin-downloader-v7.6.0-win32-ia32-douyinstopplay.exe"
+    },
+    {
+      "path": "app.tccConfig.download_info.allChannel.20013",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/win32-ia32/douyin-downloader-v7.6.0-win32-ia32-douyin4k.exe"
+    },
+    {
+      "path": "app.tccConfig.download_info.allChannel.20014",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/win32-ia32/douyin-downloader-v7.6.0-win32-ia32-micro_game.exe"
+    },
+    {
+      "path": "app.tccConfig.download_info.apkExp1",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/win32-ia32/douyin-v7.6.0-win32-ia32-douyinDownload1.exe"
+    },
+    {
+      "path": "app.tccConfig.download_info.apkDownloaderExp1",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/win32-ia32/douyin-downloader-v7.6.0-win32-ia32-douyinDownload1.exe"
+    },
+    {
+      "path": "app.tccConfig.download_info.overseas.ios",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ios0119new.png"
+    },
+    {
+      "path": "app.tccConfig.download_info.overseas.android",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/android-32.2.6/douyin.apk"
+    },
+    {
+      "path": "app.tccConfig.download_info.macApk",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/335297983/7.6.0/darwin-universal/douyin-v7.6.0-darwin-universal.dmg"
+    },
+    {
+      "path": "app.tccConfig.force_update_config.macDownloadUrl",
+      "value": "https://lf3-cdn-tos.bytegoofy.com/obj/douyin-pc-client/7044145585217083655/releases/11390835/3.2.0/darwin-universal/douyin-v3.2.0-darwin-universal.dmg"
+    },
+    {
+      "path": "app.tccConfig.force_update_config.winDownloadUrl",
+      "value": "https://lf3-cdn-tos.bytegoofy.com/obj/douyin-pc-client/7044145585217083655/releases/11390835/3.2.0/win32-ia32/douyin-downloader-v3.2.0-win32-ia32-default.exe"
+    },
+    {
+      "path": "app.tccConfig.live_small_window.durationTime",
+      "value": "10"
+    },
+    {
+      "path": "app.tccConfig.newHomeConfig.stayDurationForGuide",
+      "value": "300"
+    },
+    {
+      "path": "app.tccConfig.newHomeConfig.redirectCookieDuration",
+      "value": "3"
+    },
+    {
+      "path": "app.tccConfig.pc_app_download_config.iosLink",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/20250126ios/nZGwFo7DiE.png"
+    },
+    {
+      "path": "app.tccConfig.pc_app_download_config.padIosLink",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/20240120_pad_guid_1.png"
+    },
+    {
+      "path": "app.tccConfig.pc_app_download_config.padAndroidLink",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/android-32.2.6/douyin.apk"
+    },
+    {
+      "path": "app.tccConfig.pc_app_download_config.helpLink",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/20250120_pc_guide.png"
+    },
+    {
+      "path": "app.tccConfig.pc_app_download_config.mobileIosLink",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/mobile_home20250206_2.png"
+    },
+    {
+      "path": "app.tccConfig.pc_app_download_config.mobileAndroidLink",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/android-32.2.6/douyin.apk"
+    },
+    {
+      "path": "app.tccConfig.pc_oversea_config.androidMobileHelpLink",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ios0119new.png"
+    },
+    {
+      "path": "app.tccConfig.pc_oversea_config.iosMobileHelpLink",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ios0119new.png"
+    },
+    {
+      "path": "app.tccConfig.pc_recharge.iconPath",
+      "value": "https://lf6-cdn-tos.douyinstatic.com/obj/venus/pc/icon.png"
+    },
+    {
+      "path": "app.tccConfig.pc_recharge.iconSvg",
+      "value": "https://lf6-cdn-tos.douyinstatic.com/obj/venus/pc/icon.svg"
+    },
+    {
+      "path": "app.tccConfig.pc_recharge.iconBigPath",
+      "value": "https://lf6-cdn-tos.douyinstatic.com/obj/venus/pc/icon_big.png"
+    },
+    {
+      "path": "app.tccConfig.pc_recharge.iconBigSvg",
+      "value": "https://lf6-cdn-tos.douyinstatic.com/obj/venus/pc/icon_big.svg"
+    },
+    {
+      "path": "app.tccConfig.pc_recharge.strokePath",
+      "value": "https://lf6-cdn-tos.douyinstatic.com/obj/venus/pc/stroke.png"
+    },
+    {
+      "path": "app.tccConfig.pc_recharge.strokeSvg",
+      "value": "https://lf6-cdn-tos.douyinstatic.com/obj/venus/pc/stroke.svg"
+    },
+    {
+      "path": "app.tccConfig.safe_fix_script.scriptUrl",
+      "value": ""
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.links.0.url",
+      "value": "https://www.oceanengine.com/resource/douyin?source=douyin-pc"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.links.1.url",
+      "value": "https://www.douyin.com/agreements/?id=6773906068725565448"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.links.2.url",
+      "value": "https://www.douyin.com/agreements/?id=6773901168964798477"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.links.3.url",
+      "value": "https://www.douyin.com/recovery_account/"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.links.4.url",
+      "value": "https://www.douyin.com/aboutus/#contact"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.links.5.url",
+      "value": "https://www.douyin.com/aboutus/#join"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.links.6.url",
+      "value": "https://www.douyin.com/business_license/"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.links.7.url",
+      "value": "https://www.douyin.com/friend_links"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.links.8.url",
+      "value": "https://www.douyin.com/htmlmap/hotauthor_0_1"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.links.9.url",
+      "value": "https://www.douyin.com/downloadpage/pc"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.links.10.url",
+      "value": "https://mix.jinritemai.com/falcon/mix_page/index.html?__live_platform__=webcast&allowMediaAutoPlay=1&enter_from=others&hide_nav_bar=1&hide_system_video_poster=1&id=7117178766052294949&origin_type=others&should_full_screen=1&trans_status_bar=1&ttwebview_extension_mixrender=1&hide_nav_bar=1&should_full_screen=1&trans_status_bar=1&web_bg_color=#ffffffff"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.subLinks.0.0.url",
+      "value": "https://www.piyao.org.cn/yybgt/index.htm"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.subLinks.0.1.url",
+      "value": "https://www.12377.cn/?ref=douyin"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.subLinks.1.0.url",
+      "value": "https://beian.miit.gov.cn/"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.subLinks.1.1.url",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/license/jiemuzhizuojingying.jpg"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.subLinks.1.2.url",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/license/zengzhixuke.jpg"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.subLinks.1.3.url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/20250519-201253.jpeg"
+    },
+    {
+      "path": "app.tccConfig.site_footer.footer.subLinks.1.4.url",
+      "value": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002002046"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.links.0.url",
+      "value": "https://www.oceanengine.com/resource/douyin"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.links.1.url",
+      "value": "https://www.douyin.com/agreements/?id=6773906068725565448"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.links.2.url",
+      "value": "https://www.douyin.com/agreements/?id=6773901168964798477"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.links.3.url",
+      "value": "https://www.douyin.com/recovery_account/"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.links.4.url",
+      "value": "https://www.douyin.com/aboutus/#contact"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.links.5.url",
+      "value": "https://www.douyin.com/aboutus/#join"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.links.6.url",
+      "value": "https://www.douyin.com/business_license/"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.links.7.url",
+      "value": "https://www.douyin.com/friend_links"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.links.8.url",
+      "value": "https://www.douyin.com/htmlmap/hotauthor_0_1"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.links.9.url",
+      "value": "https://www.douyin.com/downloadpage/pc"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.links.10.url",
+      "value": "https://mix.jinritemai.com/falcon/mix_page/index.html?__live_platform__=webcast&allowMediaAutoPlay=1&enter_from=others&hide_nav_bar=1&hide_system_video_poster=1&id=7117178766052294949&origin_type=others&should_full_screen=1&trans_status_bar=1&ttwebview_extension_mixrender=1&hide_nav_bar=1&should_full_screen=1&trans_status_bar=1&web_bg_color=#ffffffff"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.subLinks.0.1.url",
+      "value": "https://beian.miit.gov.cn/"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.subLinks.0.2.url",
+      "value": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002002046"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.subLinks.0.3.url",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/license/jiemuzhizuojingying.jpg"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.subLinks.0.4.url",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/ild_jw_upfbvk_lm/ljhwZthlaukjlkulzlp/license/zengzhixuke.jpg"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.subLinks.0.5.url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/20250519-201253.jpeg"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.subLinks.1.0.url",
+      "value": "https://www.piyao.org.cn/yybgt/index.htm"
+    },
+    {
+      "path": "app.tccConfig.site_footer.navFooter.subLinks.1.1.url",
+      "value": "https://www.12377.cn/?ref=douyin"
+    },
+    {
+      "path": "app.tccConfig.sitemapInfo.0.entityDesc",
+      "value": "hotchallenge"
+    },
+    {
+      "path": "app.tccConfig.sitemapInfo.1.entityDesc",
+      "value": "newchallenge"
+    },
+    {
+      "path": "app.tccConfig.sitemapInfo.2.entityDesc",
+      "value": "newvideo"
+    },
+    {
+      "path": "app.tccConfig.sitemapInfo.2.href",
+      "value": "/htmlmap/newvideo_0_1"
+    },
+    {
+      "path": "app.tccConfig.sitemapInfo.3.entityDesc",
+      "value": "hotauthor"
+    },
+    {
+      "path": "app.tccConfig.sitemapInfo.4.entityDesc",
+      "value": "collection"
+    },
+    {
+      "path": "app.tccConfig.sitemapInfo.5.entityDesc",
+      "value": "douauthor"
+    },
+    {
+      "path": "app.tccConfig.sitemapInfo.6.entityDesc",
+      "value": "douvideo"
+    },
+    {
+      "path": "app.tccConfig.sitemapInfo.6.href",
+      "value": "/htmlmap/douvideo_0_1"
+    },
+    {
+      "path": "app.tccConfig.sitemapInfoTest.0.entityDesc",
+      "value": "hotchallenge"
+    },
+    {
+      "path": "app.tccConfig.sitemapInfoTest.1.entityDesc",
+      "value": "newchallenge"
+    },
+    {
+      "path": "app.tccConfig.sitemapInfoTest.2.entityDesc",
+      "value": "newvideo"
+    },
+    {
+      "path": "app.tccConfig.sitemapInfoTest.2.href",
+      "value": "/htmlmap/newvideo_0_1"
+    },
+    {
+      "path": "app.tccConfig.sitemapInfoTest.3.entityDesc",
+      "value": "hotauthor"
+    },
+    {
+      "path": "app.tccConfig.sitemapInfoTest.4.entityDesc",
+      "value": "collection"
+    },
+    {
+      "path": "app.tccConfig.sitemapInfoTest.5.entityDesc",
+      "value": "douauthor"
+    },
+    {
+      "path": "app.tccConfig.specTheme.bgDark",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/dark_20250225lainghuibg_wide.png"
+    },
+    {
+      "path": "app.tccConfig.specTheme.bgLight",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/light_20250225lainghuibg_wide.png"
+    },
+    {
+      "path": "app.tccConfig.specTheme.bgDarkThin",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/dark_20250225lainghuibg_thin.png"
+    },
+    {
+      "path": "app.tccConfig.specTheme.bgLightThin",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/light_20250225lainghuibg_thin.png"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.0.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12148556/4.6.0/darwin-universal/douyin-v4.6.0-darwin-universal-channel-microsoftmz03.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.0.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-microsoftmz03.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.1.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12148556/4.6.0/darwin-universal/douyin-v4.6.0-darwin-universal-channel-microsoftmz03.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.1.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-microsoftmz03.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.2.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12148296/4.6.0/darwin-universal/douyin-v4.6.0-darwin-universal-channel-xzlaq_01.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.2.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-xzlaq_01.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.3.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12148296/4.6.0/darwin-universal/douyin-v4.6.0-darwin-universal-channel-pc_liangxiang_01.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.3.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-pc_liangxiang_01.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.4.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12205185/4.8.1/darwin-universal/douyin-v4.8.1-darwin-universal-channel-cpt_qqllq.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.4.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-cpt_qqllq.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.5.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12214086/4.9.0/darwin-universal/douyin-v4.9.0-darwin-universal-channel-49284030a.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.5.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-49284030a.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.6.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12214086/4.9.0/darwin-universal/douyin-v4.9.0-darwin-universal-channel-49284030b.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.6.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-49284030b.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.7.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12214086/4.9.0/darwin-universal/douyin-v4.9.0-darwin-universal-channel-49284030c.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.7.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-49284030c.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.8.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12214086/4.9.0/darwin-universal/douyin-v4.9.0-darwin-universal-channel-49284030d.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.8.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-49284030d.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.9.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12239217/5.0.3/darwin-universal/douyin-v5.0.3-darwin-universal-channel-mf_dy_lmz.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.9.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-mf_dy_lmz.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.10.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12239217/5.0.3/darwin-universal/douyin-v5.0.3-darwin-universal-channel-mf_dy_tab.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.10.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-mf_dy_tab.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.11.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12239217/5.0.3/darwin-universal/douyin-v5.0.3-darwin-universal-channel-mf_dy_dbdh.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.11.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-mf_dy_dbdh.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.12.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12239217/5.0.3/darwin-universal/douyin-v5.0.3-darwin-universal-channel-hw_dy_57dh.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.12.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-hw_dy_57dh.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.13.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12239217/5.0.3/darwin-universal/douyin-v5.0.3-darwin-universal-channel-hw_dy_xmss.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.13.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-hw_dy_xmss.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.14.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12239217/5.0.3/darwin-universal/douyin-v5.0.3-darwin-universal-channel-hw_dy_winrar.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.14.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-hw_dy_winrar.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.15.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12239217/5.0.3/darwin-universal/douyin-v5.0.3-darwin-universal-channel-hw_dy_1234la.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.15.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-hw_dy_1234la.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.16.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12239683/5.0.3/darwin-universal/douyin-v5.0.3-darwin-universal-channel-hw_dy_flash.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.16.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-hw_dy_flash.exe"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.17.mac_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/12278923/5.3.2/darwin-universal/douyin-v5.3.2-darwin-universal-channel-doubao.dmg"
+    },
+    {
+      "path": "app.tccConfig.ug_client_download_url_list.17.win_url",
+      "value": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/297730692/7.2.0/win32-ia32/douyin-downloader-v7.2.0-win32-ia32-doubao.exe"
+    },
+    {
+      "path": "app.tccConfig.yiqingPageConfig.serviceList.0.jumpUrl",
+      "value": "https://gjzwfw.www.gov.cn/fwmh/healthCode/indexNucleic.do"
+    },
+    {
+      "path": "app.tccConfig.yiqingPageConfig.serviceList.1.jumpUrl",
+      "value": "https://api.toutiaoapi.com/ugc/hotboard_fe/hot_list/template/hot_list/forum_tab.html?show_single_widget=32&show_share=0&cilck_from=epidemic_risk_level&status_bar_height=44&tt_font_size=m#tt_daymode=1&tt_font=m"
+    },
+    {
+      "path": "app.tccConfig.yiqingPageConfig.serviceList.2.jumpUrl",
+      "value": "https://api.toutiaoapi.com/ugc/hotboard_fe/hot_list/template/hot_list/forum_tab_external.html?show_single_widget=15&publish_id=1103"
+    },
+    {
+      "path": "app.tccConfig.yiqingPageConfig.serviceList.3.jumpUrl",
+      "value": "https://api.toutiaoapi.com/amos_basic_pc/html/main/index.html?amos_id=6992834423620272164&category_name=&group_id=7022771022038388255&prevent_activate=1&style_id=30015&title=%E6%96%B0%E5%86%A0%E7%96%AB%E6%83%85%E8%BE%9F%E8%B0%A3%E4%B8%93%E5%8C%BA&utm_medium=wap_search"
+    },
+    {
+      "path": "app.tccConfig.yiqingPageConfig.serviceList.4.jumpUrl",
+      "value": "/vs"
+    },
+    {
+      "path": "app.tccConfig.yiqingPageConfig.serviceList.5.jumpUrl",
+      "value": "/discover"
+    },
+    {
+      "path": "app.backendAbTest.douyinPC.cover_style",
+      "value": "3"
+    },
+    {
+      "path": "app.backendAbTest.douyinPC.use_custom_uri",
+      "value": "true"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.active_regular_support_play",
+      "value": "0"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.ai_convert_horizontal_cover_type",
+      "value": "3"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.ai_cover",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.ai_cover_opti_v2",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.chapter_only_desc",
+      "value": "true"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.discover_card_style_optimize_v2",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.discover_diagnosis_sencondary",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.ebable_lvideo_old_pack",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.enable_aweme_slides",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.enable_aweme_slides_after_pack",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.enable_cooperation_video",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.enable_global_lvideo",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.enable_new_dy_lvideo_source",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.enable_pc_aladdin_aweme_celebrity_wiki",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.enable_pc_xigua_to_aweme",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.familiar_recommend_other_aweme_release",
+      "value": "true"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.free_order_play_group",
+      "value": "0"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.growth_play_test",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.home_page_cover_size",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.home_video_search_ideal_v3",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.jingxuan_cover_169_v2",
+      "value": "4"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.life_growth_center_page.title_back_url_scene",
+      "value": "groupon"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.life_marketing_sort.life_growth_play_free_order",
+      "value": "0"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.life_marketing_sort.life_growth_play_free_order_manual",
+      "value": "0"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.life_marketing_sort.life_growth_play_free_order_new",
+      "value": "0"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.life_marketing_sort.life_growth_play_free_order_v2",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.life_marketing_sort.life_growth_play_full_return",
+      "value": "0"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.life_marketing_sort.life_growth_play_full_return_order_count_after_buy_pop_enable",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.life_marketing_sort.life_growth_play_full_return_order_count_poi_pop_enable",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.life_marketing_sort.life_growth_play_full_return_order_count_poi_pop_enable_new",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.life_marketing_sort.life_growth_play_full_return_order_count_poi_pop_freq_count",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.life_marketing_sort.life_growth_play_full_return_order_count_poi_pop_show_order",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.life_marketing_sort.life_growth_play_full_return_v2",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.life_marketing_sort.life_growth_play_light_one_cent",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.life_marketing_sort.manual_growth_play_task_buy_n_get_back_subsidy",
+      "value": "task_buy_n_get_back_stg_2972"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.life_marketing_sort.manual_growth_play_task_ugc_light_one_cent_subsidy",
+      "value": "ugc_light_one_cent_stg_2852"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.life_marketing_sort.sku_demotion_version_1",
+      "value": "feed_video_v3"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.live_ai_watch_assistant_setting.schema",
+      "value": "aweme://webcast_format?format_id=7559090058680079369&enter_from=live&enter_method=click_live_preview_long_press&im_bot_id=7559107171192439865"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.pc_cover_clarity",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.pc_cover_cut_v4_type",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.pc_feed_cover_show_author",
+      "value": "2"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.related_video_jump_style_v2",
+      "value": "4"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.sati.search.enable_new_playlet_intent",
+      "value": "false"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.sati.search.idt_search_aweme.rule_rank_compare_config.aweme_search_clue_service_pos0_rule",
+      "value": ""
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.sati.search.idt_search_aweme.sa_aweme_dyn_gap_req_wise_key_prefix",
+      "value": "sa_aweme_dyn_gap_req_wise_v1_3"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.sati.search.idt_search_aweme_lite.enable_search_playlet_intent_v2",
+      "value": "false"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.sati.search.idt_search_aweme_lite.rule_rank_compare_config.aweme_search_clue_service_pos0_rule",
+      "value": ""
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.search.ecom.holobidding_roi2_abtest_params.playlet_layer_id_debug_campaign_list",
+      "value": "1855093091547283,1858124982713610,1859929402490903,1855092625201748,1858048792466552,1855636043620714,1857237881393219"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.search.enable_aweme_pc_hotsoon",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.search.filter_aweme_slides",
+      "value": "false"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.search.gpt_model.online_gpt_card_generation.gpt_model_description",
+      "value": "在线卡新模型"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.video_search_ideal_v3",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.fuzzyAuthor.webcast.pc_video_head",
+      "value": "1"
+    },
+    {
+      "path": "app.backendAbTest.videoPreloadConfigApplySideServer",
+      "value": ""
+    },
+    {
+      "path": "app.abFormatData.forceLoginHourly",
+      "value": "0"
+    },
+    {
+      "path": "app.abFormatData.forceLoginDaily.beijing.force_login_direct_video",
+      "value": "10"
+    },
+    {
+      "path": "app.abFormatData.forceLoginDaily.beijing.force_login_video",
+      "value": "1000"
+    },
+    {
+      "path": "app.abFormatData.forceLoginDaily.default.force_login_direct_video",
+      "value": "20"
+    },
+    {
+      "path": "app.abFormatData.forceLoginDaily.default.force_login_video",
+      "value": "1000"
+    },
+    {
+      "path": "app.abFormatData.reuseVideo",
+      "value": "2"
+    },
+    {
+      "path": "app.abFormatData.reuseVideoDiscover",
+      "value": "0"
+    },
+    {
+      "path": "app.abFormatData.bytebenchTaskConfig.taskList.0.playMode",
+      "value": "hardware"
+    },
+    {
+      "path": "app.abFormatData.bytebenchTaskConfig.taskList.1.playMode",
+      "value": "hardware"
+    },
+    {
+      "path": "app.abFormatData.bytebenchTaskConfig.taskList.2.playMode",
+      "value": "software"
+    },
+    {
+      "path": "app.abFormatData.bytebenchTaskConfig.taskList.3.playMode",
+      "value": "software"
+    },
+    {
+      "path": "app.abFormatData.abrConfig.algoArg.maxPlaySpeed",
+      "value": "1"
+    },
+    {
+      "path": "app.abFormatData.abrConfig.isPlayAutoDefi",
+      "value": "true"
+    },
+    {
+      "path": "app.abFormatData.authorCardPreload.model_url",
+      "value": ""
+    },
+    {
+      "path": "app.abFormatData.videoCut",
+      "value": "1"
+    },
+    {
+      "path": "app.abFormatData.playerVolumeLoudUnityExp",
+      "value": "0"
+    },
+    {
+      "path": "app.abFormatData.searchPreload.videoPreloadConfig.adaptRange.estPlayTime",
+      "value": "12"
+    },
+    {
+      "path": "app.abFormatData.searchPreload.videoPreloadConfig.adaptRange.rangeMaxDuration",
+      "value": "15"
+    },
+    {
+      "path": "app.abFormatData.searchPreload.videoPreloadConfig.adaptRange.rangeMinDuration",
+      "value": "5"
+    },
+    {
+      "path": "app.abFormatData.searchPreload.videoPreloadConfig.segmentMinDuration",
+      "value": "5"
+    },
+    {
+      "path": "app.abFormatData.discoverEnableWebp",
+      "value": "1"
+    },
+    {
+      "path": "app.abFormatData.videoDetailBg",
+      "value": "0"
+    },
+    {
+      "path": "app.abFormatData.imPerformanceOptimization.im_entrance_display",
+      "value": "0"
+    },
+    {
+      "path": "app.abFormatData.imPerformanceOptimization.notice_entrance_display",
+      "value": "0"
+    },
+    {
+      "path": "app.abFormatData.imPerformanceOptimization.cache_url",
+      "value": "0"
+    },
+    {
+      "path": "app.abFormatData.useNewDyVideoPlayer",
+      "value": "0"
+    },
+    {
+      "path": "app.abFormatData.discoverSlideOptimize",
+      "value": "1"
+    },
+    {
+      "path": "app.abFormatData.discoverTaskOptimize",
+      "value": "0"
+    },
+    {
+      "path": "app.abFormatData.liveWaterMark.livePlayer",
+      "value": "0"
+    },
+    {
+      "path": "app.abFormatData.livePlayerSeamlessSwitch",
+      "value": "0"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.blue",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/chat_days_blue_3140%403x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.closeFriend",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/chat_days_closeFriend_3140%403x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.green",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/chat_days_green_3140%403x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.normal",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/chat_days_normal_3140%403x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.purple",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/chat_days_purple_3140%403x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.recover_normal",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/chat_days_normal_3140%403x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.recover_normal|bosom",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/bosom/normal_bosom.png"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.recover_normal|couple",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/couple/normal_couple.png"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.recover_normal|family",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/family/normal_family.png"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.recover_normal|mate",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/mate/normal_mate.png"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.recover_normal|normal",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/normal/normal_normal.png"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.recover_normal|soulmate",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/soulmate/normal_soulmate.png"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.specialSpringFestival2024_emoji",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/specialSpringFestival2024_emoji.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.to_recover",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/normal/gray_normal.png"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.to_recover|bosom",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/bosom/gray_bosom.png"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.to_recover|couple",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/couple/gray_couple.png"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.to_recover|family",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/family/gray_family.png"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.to_recover|mate",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/mate/gray_mate.png"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.to_recover|normal",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/normal/gray_normal.png"
+    },
+    {
+      "path": "app.abFormatData.im_streak_icon_config.to_recover|soulmate",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/soulmate/gray_soulmate.png"
+    },
+    {
+      "path": "app.abFormatData.im_notice_replace_icon_config.ai_mix_image",
+      "value": "https://p9.douyinpic.com/aweme-client-static-resource/ai_mix_image_3x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abFormatData.im_notice_replace_icon_config.chat_reward_gold_icon",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/im_gold_coin.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abFormatData.im_notice_replace_icon_config.edit_group_name",
+      "value": "https://p9.douyinpic.com/aweme-client-static-resource/edit_group_name_3x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abFormatData.im_notice_replace_icon_config.im_chat_digg_icon",
+      "value": "https://p9.douyinpic.com/aweme-client-static-resource/im_spring_chat_digg_icon.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abFormatData.im_notice_replace_icon_config.im_chat_redpacket_icon",
+      "value": "https://p9.douyinpic.com/aweme-client-static-resource/im_spring_chat_redpacket_icon.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abFormatData.im_notice_replace_icon_config.incentive_chat_notice_box_icon",
+      "value": "https://p3-aweme-im-img.byteimg.com/tos-cn-i-7lppr0tkux/2b9159d32f8494cc1c5d320e1a369088.png~tplv-7lppr0tkux-image.image"
+    },
+    {
+      "path": "app.abFormatData.im_notice_replace_icon_config.incentive_chat_notice_icon",
+      "value": "https://p3-aweme-im-img.byteimg.com/tos-cn-i-7lppr0tkux/c376a2937eefda3d13a0a537e1805bcd.png~tplv-7lppr0tkux-image.image"
+    },
+    {
+      "path": "app.abFormatData.im_notice_replace_icon_config.mango_incentive_chat_notice_box_icon",
+      "value": "https://p3-aweme-im-img.byteimg.com/tos-cn-i-7lppr0tkux/1f2d232b82c8a45c01d0254734de50e5.png~tplv-7lppr0tkux-image.image"
+    },
+    {
+      "path": "app.abFormatData.im_notice_replace_icon_config.text_push_guide_notice_icon",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/after_reply_notice_icon_new@3x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abFormatData.im_notice_replace_icon_config.webcast_subscribe_renew_notice_icon",
+      "value": "https://p-aweme-im-img-sign.bytedance.net/tos-cn-i-1xjakjwot8/webcast_subscribe_diamondv_notice.png~tplv-1xjakjwot8-image.webp?lk3s=fff2e91a&x-orig-authkey=ak1xjakjwot8&x-orig-expires=1776412172&x-orig-sign=kkAsi5RWs0ZECC%2Fj7NQ3G608gy0%3D"
+    },
+    {
+      "path": "app.abFormatData.jxCoverPreload",
+      "value": "2"
+    },
+    {
+      "path": "app.abFormatData.supportLocalPlayer",
+      "value": "0"
+    },
+    {
+      "path": "app.abFormatData.searchOpenCurrentTab.save_video",
+      "value": "0"
+    },
+    {
+      "path": "app.abFormatData.discoverOptimize",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.forceLoginHourly",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.forceLoginDaily.beijing.force_login_direct_video",
+      "value": "10"
+    },
+    {
+      "path": "app.abTestData.forceLoginDaily.beijing.force_login_video",
+      "value": "1000"
+    },
+    {
+      "path": "app.abTestData.forceLoginDaily.default.force_login_direct_video",
+      "value": "20"
+    },
+    {
+      "path": "app.abTestData.forceLoginDaily.default.force_login_video",
+      "value": "1000"
+    },
+    {
+      "path": "app.abTestData.reuseVideo",
+      "value": "2"
+    },
+    {
+      "path": "app.abTestData.reuseVideoDiscover",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.bytebenchTaskConfig.taskList.0.playMode",
+      "value": "hardware"
+    },
+    {
+      "path": "app.abTestData.bytebenchTaskConfig.taskList.1.playMode",
+      "value": "hardware"
+    },
+    {
+      "path": "app.abTestData.bytebenchTaskConfig.taskList.2.playMode",
+      "value": "software"
+    },
+    {
+      "path": "app.abTestData.bytebenchTaskConfig.taskList.3.playMode",
+      "value": "software"
+    },
+    {
+      "path": "app.abTestData.abrConfig.algoArg.maxPlaySpeed",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.abrConfig.isPlayAutoDefi",
+      "value": "true"
+    },
+    {
+      "path": "app.abTestData.authorCardPreload.model_url",
+      "value": ""
+    },
+    {
+      "path": "app.abTestData.videoCut",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.playerVolumeLoudUnityExp",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.searchPreload.videoPreloadConfig.adaptRange.estPlayTime",
+      "value": "12"
+    },
+    {
+      "path": "app.abTestData.searchPreload.videoPreloadConfig.adaptRange.rangeMaxDuration",
+      "value": "15"
+    },
+    {
+      "path": "app.abTestData.searchPreload.videoPreloadConfig.adaptRange.rangeMinDuration",
+      "value": "5"
+    },
+    {
+      "path": "app.abTestData.searchPreload.videoPreloadConfig.segmentMinDuration",
+      "value": "5"
+    },
+    {
+      "path": "app.abTestData.discoverEnableWebp",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.videoDetailBg",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.imPerformanceOptimization.im_entrance_display",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.imPerformanceOptimization.notice_entrance_display",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.imPerformanceOptimization.cache_url",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.useNewDyVideoPlayer",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.discoverSlideOptimize",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.discoverTaskOptimize",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.liveWaterMark.livePlayer",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.livePlayerSeamlessSwitch",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.blue",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/chat_days_blue_3140%403x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.closeFriend",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/chat_days_closeFriend_3140%403x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.green",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/chat_days_green_3140%403x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.normal",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/chat_days_normal_3140%403x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.purple",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/chat_days_purple_3140%403x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.recover_normal",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/chat_days_normal_3140%403x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.recover_normal|bosom",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/bosom/normal_bosom.png"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.recover_normal|couple",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/couple/normal_couple.png"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.recover_normal|family",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/family/normal_family.png"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.recover_normal|mate",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/mate/normal_mate.png"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.recover_normal|normal",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/normal/normal_normal.png"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.recover_normal|soulmate",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/soulmate/normal_soulmate.png"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.specialSpringFestival2024_emoji",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/specialSpringFestival2024_emoji.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.to_recover",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/normal/gray_normal.png"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.to_recover|bosom",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/bosom/gray_bosom.png"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.to_recover|couple",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/couple/gray_couple.png"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.to_recover|family",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/family/gray_family.png"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.to_recover|mate",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/mate/gray_mate.png"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.to_recover|normal",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/normal/gray_normal.png"
+    },
+    {
+      "path": "app.abTestData.im_streak_icon_config.to_recover|soulmate",
+      "value": "https://lf3-static.bytednsdoc.com/obj/eden-cn/tp_upfbvk/ljhwZthlaukjlkulzlp/flame_icon/soulmate/gray_soulmate.png"
+    },
+    {
+      "path": "app.abTestData.im_notice_replace_icon_config.ai_mix_image",
+      "value": "https://p9.douyinpic.com/aweme-client-static-resource/ai_mix_image_3x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abTestData.im_notice_replace_icon_config.chat_reward_gold_icon",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/im_gold_coin.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abTestData.im_notice_replace_icon_config.edit_group_name",
+      "value": "https://p9.douyinpic.com/aweme-client-static-resource/edit_group_name_3x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abTestData.im_notice_replace_icon_config.im_chat_digg_icon",
+      "value": "https://p9.douyinpic.com/aweme-client-static-resource/im_spring_chat_digg_icon.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abTestData.im_notice_replace_icon_config.im_chat_redpacket_icon",
+      "value": "https://p9.douyinpic.com/aweme-client-static-resource/im_spring_chat_redpacket_icon.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abTestData.im_notice_replace_icon_config.incentive_chat_notice_box_icon",
+      "value": "https://p3-aweme-im-img.byteimg.com/tos-cn-i-7lppr0tkux/2b9159d32f8494cc1c5d320e1a369088.png~tplv-7lppr0tkux-image.image"
+    },
+    {
+      "path": "app.abTestData.im_notice_replace_icon_config.incentive_chat_notice_icon",
+      "value": "https://p3-aweme-im-img.byteimg.com/tos-cn-i-7lppr0tkux/c376a2937eefda3d13a0a537e1805bcd.png~tplv-7lppr0tkux-image.image"
+    },
+    {
+      "path": "app.abTestData.im_notice_replace_icon_config.mango_incentive_chat_notice_box_icon",
+      "value": "https://p3-aweme-im-img.byteimg.com/tos-cn-i-7lppr0tkux/1f2d232b82c8a45c01d0254734de50e5.png~tplv-7lppr0tkux-image.image"
+    },
+    {
+      "path": "app.abTestData.im_notice_replace_icon_config.text_push_guide_notice_icon",
+      "value": "https://p3.douyinpic.com/aweme-client-static-resource/after_reply_notice_icon_new@3x.png~tplv-obj.image"
+    },
+    {
+      "path": "app.abTestData.im_notice_replace_icon_config.webcast_subscribe_renew_notice_icon",
+      "value": "https://p-aweme-im-img-sign.bytedance.net/tos-cn-i-1xjakjwot8/webcast_subscribe_diamondv_notice.png~tplv-1xjakjwot8-image.webp?lk3s=fff2e91a&x-orig-authkey=ak1xjakjwot8&x-orig-expires=1776412172&x-orig-sign=kkAsi5RWs0ZECC%2Fj7NQ3G608gy0%3D"
+    },
+    {
+      "path": "app.abTestData.jxCoverPreload",
+      "value": "2"
+    },
+    {
+      "path": "app.abTestData.supportLocalPlayer",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.searchOpenCurrentTab.save_video",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.discoverOptimize",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.douyinPC.cover_style",
+      "value": "3"
+    },
+    {
+      "path": "app.abTestData.douyinPC.use_custom_uri",
+      "value": "true"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.active_regular_support_play",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.ai_convert_horizontal_cover_type",
+      "value": "3"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.ai_cover",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.ai_cover_opti_v2",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.chapter_only_desc",
+      "value": "true"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.discover_card_style_optimize_v2",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.discover_diagnosis_sencondary",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.ebable_lvideo_old_pack",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.enable_aweme_slides",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.enable_aweme_slides_after_pack",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.enable_cooperation_video",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.enable_global_lvideo",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.enable_new_dy_lvideo_source",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.enable_pc_aladdin_aweme_celebrity_wiki",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.enable_pc_xigua_to_aweme",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.familiar_recommend_other_aweme_release",
+      "value": "true"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.free_order_play_group",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.growth_play_test",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.home_page_cover_size",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.home_video_search_ideal_v3",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.jingxuan_cover_169_v2",
+      "value": "4"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.life_growth_center_page.title_back_url_scene",
+      "value": "groupon"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.life_marketing_sort.life_growth_play_free_order",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.life_marketing_sort.life_growth_play_free_order_manual",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.life_marketing_sort.life_growth_play_free_order_new",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.life_marketing_sort.life_growth_play_free_order_v2",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.life_marketing_sort.life_growth_play_full_return",
+      "value": "0"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.life_marketing_sort.life_growth_play_full_return_order_count_after_buy_pop_enable",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.life_marketing_sort.life_growth_play_full_return_order_count_poi_pop_enable",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.life_marketing_sort.life_growth_play_full_return_order_count_poi_pop_enable_new",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.life_marketing_sort.life_growth_play_full_return_order_count_poi_pop_freq_count",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.life_marketing_sort.life_growth_play_full_return_order_count_poi_pop_show_order",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.life_marketing_sort.life_growth_play_full_return_v2",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.life_marketing_sort.life_growth_play_light_one_cent",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.life_marketing_sort.manual_growth_play_task_buy_n_get_back_subsidy",
+      "value": "task_buy_n_get_back_stg_2972"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.life_marketing_sort.manual_growth_play_task_ugc_light_one_cent_subsidy",
+      "value": "ugc_light_one_cent_stg_2852"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.life_marketing_sort.sku_demotion_version_1",
+      "value": "feed_video_v3"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.live_ai_watch_assistant_setting.schema",
+      "value": "aweme://webcast_format?format_id=7559090058680079369&enter_from=live&enter_method=click_live_preview_long_press&im_bot_id=7559107171192439865"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.pc_cover_clarity",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.pc_cover_cut_v4_type",
+      "value": "1"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.pc_feed_cover_show_author",
+      "value": "2"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.related_video_jump_style_v2",
+      "value": "4"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.sati.search.enable_new_playlet_intent",
+      "value": "false"
+    },
+    {
+      "path": "app.abTestData.fuzzyAuthor.sati.search.idt_search_aweme.rule_rank_compare_config.aweme_search_clue_service_pos0_rule",
+      "value": ""
+    }
+  ]
+}

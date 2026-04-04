@@ -1,0 +1,28 @@
+{
+  "shots": [
+    {
+      "id": "shot-01",
+      "startMs": 0,
+      "endMs": 5000,
+      "keyframeLabel": "cold open detail"
+    },
+    {
+      "id": "shot-02",
+      "startMs": 5000,
+      "endMs": 12000,
+      "keyframeLabel": "main action reveal"
+    },
+    {
+      "id": "shot-03",
+      "startMs": 12000,
+      "endMs": 22000,
+      "keyframeLabel": "environment reaction"
+    },
+    {
+      "id": "shot-04",
+      "startMs": 22000,
+      "endMs": 32000,
+      "keyframeLabel": "payoff and loopable ending"
+    }
+  ]
+}

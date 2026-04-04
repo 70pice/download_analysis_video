@@ -1,0 +1,25 @@
+{
+  "title": "Edited Plan",
+  "creativeIntent": "Make it sharper.",
+  "targetAudience": "short video audience",
+  "segments": [
+    {
+      "id": "segment-a",
+      "goal": "Hook fast",
+      "beats": [
+        "hook"
+      ],
+      "sourceShotIds": [
+        "shot-01"
+      ],
+      "scenePlan": "Indoor setup",
+      "blockingPlan": "Subject turns into frame",
+      "cameraPlan": "Tight push-in",
+      "narration": "Open on the payoff",
+      "visualPrompt": "cinematic short video",
+      "notes": "Keep it crisp"
+    }
+  ],
+  "editedAt": "2026-04-04T01:58:55.567Z",
+  "editor": "local-user"
+}

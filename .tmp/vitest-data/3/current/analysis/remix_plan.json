@@ -1,0 +1,63 @@
+{
+  "title": "没有面包 谈什么爱情 Remix Blueprint",
+  "creativeIntent": "Rebuild the source as a punchier short with a stronger first three seconds and clearer emotional payoff.",
+  "targetAudience": "short-video viewers who reward immediate visual hooks",
+  "segments": [
+    {
+      "id": "segment-a",
+      "goal": "Deliver the hook before any explanation.",
+      "beats": [
+        "payoff tease",
+        "visual question",
+        "micro-suspense"
+      ],
+      "sourceShotIds": [
+        "shot-04",
+        "shot-01"
+      ],
+      "scenePlan": "Start with the strongest outcome frame, then snap back to the setup environment.",
+      "blockingPlan": "Hold the subject nearly still first, then trigger a sudden directional move.",
+      "cameraPlan": "Fast close detail followed by a sharper medium reveal.",
+      "narration": "Start where the viewer would expect the ending, then immediately ask how we got there.",
+      "visualPrompt": "cinematic short video, nostalgic daily slice, tactile close-up, premium lighting, vertical 9:16",
+      "notes": "Prioritize visual rhythm over exposition."
+    },
+    {
+      "id": "segment-b",
+      "goal": "Build the world and make the action legible.",
+      "beats": [
+        "context",
+        "motion",
+        "environment response"
+      ],
+      "sourceShotIds": [
+        "shot-02",
+        "shot-03"
+      ],
+      "scenePlan": "Expand into the full environment while preserving the original momentum.",
+      "blockingPlan": "Subject advances deeper into frame; background elements answer the motion.",
+      "cameraPlan": "Medium handheld into lateral movement for energy.",
+      "narration": "Clarify what is happening without slowing the cut pace.",
+      "visualPrompt": "dynamic vertical ad shot, environmental storytelling, crisp motion, warm editorial grade",
+      "notes": "Use one clean gesture to define the story logic."
+    },
+    {
+      "id": "segment-c",
+      "goal": "Close on a memorable repeatable image.",
+      "beats": [
+        "payoff",
+        "brandable pose",
+        "loopable end frame"
+      ],
+      "sourceShotIds": [
+        "shot-04"
+      ],
+      "scenePlan": "Return to the payoff with more control and a cleaner background.",
+      "blockingPlan": "Subject holds eye-line for half a beat before the final gesture.",
+      "cameraPlan": "Locked hero frame with a subtle settle.",
+      "narration": "Land on the emotional or aesthetic reward with no extra explanation.",
+      "visualPrompt": "hero vertical closing shot, elegant framing, precise gesture, satisfying ending frame",
+      "notes": "This segment should be reusable as the opening payoff in future variants."
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+:root {
+  color-scheme: light;
+  --bg: #f5f1e8;
+  --surface: rgba(255, 250, 242, 0.88);
+  --surface-strong: #fffaf2;
+  --line: rgba(82, 52, 31, 0.16);
+  --text: #2a1f17;
+  --muted: #6f5c4c;
+  --accent: #c45a2b;
+  --accent-soft: rgba(196, 90, 43, 0.14);
+  --success: #1d7a4c;
+  --warning: #b66b17;
+  --shadow: 0 20px 60px rgba(87, 53, 29, 0.12);
+  --radius: 20px;
+  --font-sans: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+  background:
+    radial-gradient(circle at top left, rgba(255, 215, 163, 0.42), transparent 28%),
+    radial-gradient(circle at top right, rgba(255, 120, 72, 0.22), transparent 26%),
+    linear-gradient(180deg, #f9f2e7 0%, #f1ece2 100%);
+  color: var(--text);
+  font-family: var(--font-sans);
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+.shell {
+  min-height: 100vh;
+  padding: 24px;
+}
+
+.stack {
+  display: grid;
+  gap: 18px;
+}
+
+.panel {
+  border: 1px solid var(--line);
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  border-radius: var(--radius);
+  backdrop-filter: blur(18px);
+}
+
+.topbar {
+  display: grid;
+  gap: 16px;
+  padding: 18px;
+}
+
+.topbar-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: center;
+}
+
+.eyebrow {
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.headline {
+  margin: 4px 0 0;
+  font-size: clamp(28px, 3vw, 42px);
+  line-height: 1;
+}
+
+.subline {
+  margin: 8px 0 0;
+  color: var(--muted);
+  max-width: 72ch;
+}
+
+.status-pill {
+  padding: 10px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: var(--surface-strong);
+  color: var(--muted);
+  font-weight: 600;
+}
+
+.status-pill.running {
+  color: var(--warning);
+}
+
+.status-pill.complete {
+  color: var(--success);
+}
+
+.status-pill.failed {
+  color: #a12626;
+}
+
+.source-form {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto auto;
+  gap: 12px;
+}
+
+.input,
+.textarea {
+  width: 100%;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 14px;
+  padding: 12px 14px;
+  color: var(--text);
+}
+
+.textarea {
+  min-height: 108px;
+  resize: vertical;
+}
+
+.btn {
+  border: 0;
+  border-radius: 14px;
+  padding: 12px 16px;
+  background: var(--surface-strong);
+  color: var(--text);
+  transition: transform 180ms ease, background 180ms ease;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+}
+
+.btn.primary {
+  background: linear-gradient(135deg, #d76834, #b13d1e);
+  color: white;
+}
+
+.btn.ghost {
+  border: 1px solid var(--line);
+  background: transparent;
+}
+
+.workspace {
+  display: grid;
+  grid-template-columns: minmax(320px, 0.95fr) minmax(380px, 1.05fr);
+  gap: 18px;
+}
+
+.pane {
+  display: grid;
+  gap: 16px;
+  padding: 18px;
+}
+
+.pane h2,
+.pane h3,
+.pane h4 {
+  margin: 0;
+}
+
+.source-card {
+  padding: 16px;
+  border-radius: 16px;
+  background: var(--surface-strong);
+  border: 1px solid var(--line);
+}
+
+.meta-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.meta-grid > div,
+.artifact-grid > div {
+  padding: 12px;
+  border-radius: 14px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.66);
+}
+
+.shot-list,
+.segment-list,
+.artifact-grid,
+.stage-list {
+  display: grid;
+  gap: 12px;
+}
+
+.shot-card,
+.segment-card {
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.shot-card header,
+.segment-card header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+
+.chip-row,
+.reference-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.helper {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.footer {
+  display: grid;
+  gap: 16px;
+  padding: 18px;
+}
+
+.artifact-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.empty {
+  padding: 36px;
+  text-align: center;
+  color: var(--muted);
+  border: 1px dashed var(--line);
+  border-radius: 16px;
+}
+
+@media (max-width: 1080px) {
+  .source-form,
+  .workspace,
+  .artifact-grid {
+    grid-template-columns: 1fr;
+  }
+}

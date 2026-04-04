@@ -1,0 +1,74 @@
+{
+  "shots": [
+    {
+      "id": "shot-01",
+      "summary": "cold open detail framed around nostalgic daily slice.",
+      "people": [
+        "lead subject"
+      ],
+      "scene": "interior lifestyle set",
+      "blocking": "subject enters frame from the edge and claims attention",
+      "camera": "tight push-in with intentional suspense",
+      "dialogue": "Open on the hero detail with no setup.",
+      "tags": [
+        "nostalgic daily slice",
+        "hook",
+        "cold open detail"
+      ],
+      "confidence": 0.8
+    },
+    {
+      "id": "shot-02",
+      "summary": "main action reveal framed around nostalgic daily slice.",
+      "people": [
+        "lead subject",
+        "supporting extra"
+      ],
+      "scene": "interior lifestyle set",
+      "blocking": "subject moves forward while the environment echoes the beat",
+      "camera": "match-cut into medium handheld",
+      "dialogue": "Shift into the core action and show the environment reacting.",
+      "tags": [
+        "nostalgic daily slice",
+        "hook",
+        "main action reveal"
+      ],
+      "confidence": 0.8400000000000001
+    },
+    {
+      "id": "shot-03",
+      "summary": "environment reaction framed around nostalgic daily slice.",
+      "people": [
+        "lead subject"
+      ],
+      "scene": "transition to wider environment",
+      "blocking": "subject moves forward while the environment echoes the beat",
+      "camera": "wider lateral drift",
+      "dialogue": "Reveal the lifestyle payoff with a stronger visual contrast.",
+      "tags": [
+        "nostalgic daily slice",
+        "payoff",
+        "environment reaction"
+      ],
+      "confidence": 0.88
+    },
+    {
+      "id": "shot-04",
+      "summary": "payoff and loopable ending framed around nostalgic daily slice.",
+      "people": [
+        "lead subject",
+        "supporting extra"
+      ],
+      "scene": "transition to wider environment",
+      "blocking": "subject moves forward while the environment echoes the beat",
+      "camera": "held hero ending with a soft settle",
+      "dialogue": "Close on a reusable branded gesture or visual signature.",
+      "tags": [
+        "nostalgic daily slice",
+        "payoff",
+        "payoff and loopable ending"
+      ],
+      "confidence": 0.92
+    }
+  ]
+}
