@@ -1,0 +1,19 @@
+{
+  "job": {
+    "id": "job_001",
+    "sourceUrl": "https://example.com/video",
+    "status": "processing",
+    "activeStage": "analyze_clips",
+    "createdAt": "2026-04-09T12:00:00.000Z",
+    "updatedAt": "2026-04-09T12:05:00.000Z",
+    "stages": [
+      {
+        "key": "download_video",
+        "label": "Download video",
+        "status": "complete",
+        "error": null,
+        "updatedAt": "2026-04-09T12:01:00.000Z"
+      }
+    ]
+  }
+}

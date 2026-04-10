@@ -1,53 +1,53 @@
 {
-  "id": "9458474c-bc04-4f18-b343-d55a0133ccd8",
+  "id": "01dce4aa-1a75-4172-9777-b7f74d165bdd",
   "sourceInput": "3.51 复制打开抖音，看看【一杯美式的作品】没有面包 谈什么爱情 # 汽水心动预警好像真的存在",
   "sourceUrl": null,
   "status": "complete",
   "activeStage": null,
-  "createdAt": "2026-04-04T01:58:58.196Z",
-  "updatedAt": "2026-04-04T01:58:58.421Z",
+  "createdAt": "2026-04-09T15:26:50.631Z",
+  "updatedAt": "2026-04-09T15:26:50.832Z",
   "stages": [
     {
       "key": "ingest",
       "label": "Source ingest",
       "status": "complete",
       "error": null,
-      "updatedAt": "2026-04-04T01:58:58.311Z"
+      "updatedAt": "2026-04-09T15:26:50.719Z"
     },
     {
       "key": "transcribe",
       "label": "Transcript",
       "status": "complete",
       "error": null,
-      "updatedAt": "2026-04-04T01:58:58.334Z"
+      "updatedAt": "2026-04-09T15:26:50.741Z"
     },
     {
       "key": "detect_shots",
       "label": "Shot detection",
       "status": "complete",
       "error": null,
-      "updatedAt": "2026-04-04T01:58:58.357Z"
+      "updatedAt": "2026-04-09T15:26:50.760Z"
     },
     {
       "key": "understand_shots",
       "label": "Shot understanding",
       "status": "complete",
       "error": null,
-      "updatedAt": "2026-04-04T01:58:58.375Z"
+      "updatedAt": "2026-04-09T15:26:50.780Z"
     },
     {
       "key": "build_storyboard",
       "label": "Storyboard",
       "status": "complete",
       "error": null,
-      "updatedAt": "2026-04-04T01:58:58.394Z"
+      "updatedAt": "2026-04-09T15:26:50.801Z"
     },
     {
       "key": "generate_remix_plan",
       "label": "Remix plan",
       "status": "complete",
       "error": null,
-      "updatedAt": "2026-04-04T01:58:58.413Z"
+      "updatedAt": "2026-04-09T15:26:50.820Z"
     }
   ]
 }

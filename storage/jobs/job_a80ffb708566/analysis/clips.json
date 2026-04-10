@@ -1,0 +1,17 @@
+{
+  "shots": [
+    {
+      "clipId": "clip-001.mp4",
+      "summary": "stub analysis",
+      "people": [],
+      "scene": "unknown",
+      "blocking": "unknown",
+      "camera": "unknown",
+      "dialogue": "",
+      "tags": [],
+      "confidence": 0.0,
+      "keyframePath": "D:\\AI\u521b\u4e1a\u6311\u6218\\download_analysis_video\\storage\\jobs\\job_a80ffb708566\\frames\\clip-001.jpg",
+      "provider": "stub"
+    }
+  ]
+}

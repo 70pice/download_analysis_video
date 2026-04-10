@@ -1,0 +1,52 @@
+{
+  "id": "job_a80ffb708566",
+  "sourceUrl": "https://samplelib.com/lib/preview/mp4/sample-5s.mp4",
+  "status": "completed",
+  "activeStage": null,
+  "createdAt": "2026-04-10T14:25:25.913333+00:00",
+  "updatedAt": "2026-04-10T14:25:31.412778+00:00",
+  "stages": [
+    {
+      "key": "download_video",
+      "label": "Download video",
+      "status": "complete",
+      "error": null,
+      "updatedAt": "2026-04-10T14:25:28.944870+00:00"
+    },
+    {
+      "key": "inspect_video",
+      "label": "Inspect video",
+      "status": "complete",
+      "error": null,
+      "updatedAt": "2026-04-10T14:25:29.032324+00:00"
+    },
+    {
+      "key": "slice_video",
+      "label": "Slice video",
+      "status": "complete",
+      "error": null,
+      "updatedAt": "2026-04-10T14:25:31.338191+00:00"
+    },
+    {
+      "key": "analyze_clips",
+      "label": "Analyze clips",
+      "status": "complete",
+      "error": null,
+      "updatedAt": "2026-04-10T14:25:31.361126+00:00"
+    },
+    {
+      "key": "build_storyboard",
+      "label": "Build storyboard",
+      "status": "complete",
+      "error": null,
+      "updatedAt": "2026-04-10T14:25:31.385166+00:00"
+    },
+    {
+      "key": "generate_remix_plan",
+      "label": "Generate remix plan",
+      "status": "complete",
+      "error": null,
+      "updatedAt": "2026-04-10T14:25:31.404759+00:00"
+    }
+  ]
+}

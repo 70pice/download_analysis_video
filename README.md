@@ -1,4 +1,4 @@
-﻿# Video Review Workstation
+# Video Review Workstation
 
 Single-project immersive review UI for turning a short-video URL into:
 
@@ -8,6 +8,27 @@ Single-project immersive review UI for turning a short-video URL into:
 - editable remix plan
 
 The current build uses deterministic mock providers so the end-to-end review flow is runnable without external media tooling. The artifact contracts are designed so real adapters for `yt-dlp`, `ffmpeg`, ASR, and multimodal models can replace the mock stage outputs later.
+
+This repository is in transition from the original monolithic `src/` prototype toward a split `frontend/` and `backend/` layout. The new `frontend/` and `backend/` directories are scaffold shells for the upcoming split, while the legacy `src/` code remains the current working baseline.
+
+## Harness Workflow
+
+Read `AGENTS.md` first for repo navigation.
+
+## Repo Docs
+
+- `docs/harness/repo-map.md`
+- `docs/architecture/video-analysis-system.md`
+- `docs/product/web-app-scope.md`
+
+## Scripts
+
+Preferred flow: run `scripts/bootstrap.ps1`, then `scripts/doctor.ps1`, then `scripts/dev.ps1` for local work, and `scripts/verify.ps1` before completion. These commands still target the legacy root app for now; the split `frontend/` and `backend/` shells are not the runnable path yet.
+
+- `powershell -ExecutionPolicy Bypass -File scripts/bootstrap.ps1`
+- `powershell -ExecutionPolicy Bypass -File scripts/doctor.ps1`
+- `powershell -ExecutionPolicy Bypass -File scripts/dev.ps1`
+- `powershell -ExecutionPolicy Bypass -File scripts/verify.ps1`
 
 ## Local Development
 
@@ -47,7 +68,7 @@ Example Codex MCP config:
     "video_download": {
       "command": "cmd",
       "args": ["/c", "npm.cmd", "run", "mcp:video_download"],
-      "cwd": "D:\\AI创业挑战\\analyze_similar_video"
+      "cwd": "D:\\path\\to\\download_analysis_video"
     }
   }
 }
@@ -69,7 +90,7 @@ cmd /c npm.cmd install
 [mcp_servers.video_download]
 command = "cmd"
 args = ["/c", "npm.cmd", "run", "mcp:video_download"]
-cwd = "D:\\path\\to\\analyze_similar_video"
+cwd = "D:\\path\\to\\download_analysis_video"
 ```
 
 5. Restart Codex or open a new Codex session.

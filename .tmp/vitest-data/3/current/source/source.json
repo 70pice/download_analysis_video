@@ -15,7 +15,7 @@
     "canAttemptDownload": false,
     "reason": "No direct video URL was found in the share text.",
     "candidateUrl": null,
-    "executable": "D:\\AI创业挑战\\analyze_similar_video\\tools\\bin\\yt-dlp.exe",
+    "executable": "D:\\AI创业挑战\\download_analysis_video\\tools\\bin\\yt-dlp.exe",
     "outputFilename": "source.mp4"
   },
   "downloadExecution": {

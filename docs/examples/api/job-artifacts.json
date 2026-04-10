@@ -1,0 +1,30 @@
+{
+  "source": null,
+  "shots": {
+    "shots": [
+      {
+        "id": "clip-001",
+        "startMs": 0,
+        "endMs": 5000,
+        "keyframeLabel": "opening frame"
+      }
+    ]
+  },
+  "clipUnderstanding": {
+    "shots": [
+      {
+        "id": "clip-001",
+        "summary": "A short opening shot",
+        "people": [],
+        "scene": "interior",
+        "blocking": "static",
+        "camera": "wide",
+        "dialogue": "",
+        "tags": [
+          "intro"
+        ],
+        "confidence": 0.8
+      }
+    ]
+  }
+}

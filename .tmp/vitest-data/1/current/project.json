@@ -1,53 +1,53 @@
 {
-  "id": "72c46b9c-0b8f-4f66-84a9-cd50d38762b7",
+  "id": "dc66af43-a058-493d-a96b-b47dff74cece",
   "sourceInput": "https://v.douyin.com/example/",
   "sourceUrl": "https://v.douyin.com/example/",
   "status": "queued",
   "activeStage": null,
-  "createdAt": "2026-04-04T01:58:55.566Z",
-  "updatedAt": "2026-04-04T01:58:55.566Z",
+  "createdAt": "2026-04-09T15:26:47.666Z",
+  "updatedAt": "2026-04-09T15:26:47.666Z",
   "stages": [
     {
       "key": "ingest",
       "label": "Source ingest",
       "status": "pending",
       "error": null,
-      "updatedAt": "2026-04-04T01:58:55.566Z"
+      "updatedAt": "2026-04-09T15:26:47.666Z"
     },
     {
       "key": "transcribe",
       "label": "Transcript",
       "status": "pending",
       "error": null,
-      "updatedAt": "2026-04-04T01:58:55.566Z"
+      "updatedAt": "2026-04-09T15:26:47.666Z"
     },
     {
       "key": "detect_shots",
       "label": "Shot detection",
       "status": "pending",
       "error": null,
-      "updatedAt": "2026-04-04T01:58:55.566Z"
+      "updatedAt": "2026-04-09T15:26:47.666Z"
     },
     {
       "key": "understand_shots",
       "label": "Shot understanding",
       "status": "pending",
       "error": null,
-      "updatedAt": "2026-04-04T01:58:55.566Z"
+      "updatedAt": "2026-04-09T15:26:47.666Z"
     },
     {
       "key": "build_storyboard",
       "label": "Storyboard",
       "status": "pending",
       "error": null,
-      "updatedAt": "2026-04-04T01:58:55.566Z"
+      "updatedAt": "2026-04-09T15:26:47.666Z"
     },
     {
       "key": "generate_remix_plan",
       "label": "Remix plan",
       "status": "pending",
       "error": null,
-      "updatedAt": "2026-04-04T01:58:55.566Z"
+      "updatedAt": "2026-04-09T15:26:47.666Z"
     }
   ]
 }

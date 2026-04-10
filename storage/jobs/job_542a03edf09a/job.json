@@ -1,0 +1,17 @@
+{
+  "id": "job_542a03edf09a",
+  "sourceUrl": "https://www.douyin.com/user/MS4wLjABAAAA39e1alasD7-Jiv_4_49QGFlFSKr2eq80AgSTlwW_Y8qopzIzTSxrXFp1hfaObK21?modal_id=7132823506349329678",
+  "status": "failed",
+  "activeStage": null,
+  "createdAt": "2026-04-10T14:26:39.364781+00:00",
+  "updatedAt": "2026-04-10T14:26:42.791628+00:00",
+  "stages": [
+    {
+      "key": "download_video",
+      "label": "Download video",
+      "status": "failed",
+      "error": "Command '['uv', 'run', '--with', 'yt-dlp', 'yt-dlp', '-o', 'D:\\\\AI\u521b\u4e1a\u6311\u6218\\\\download_analysis_video\\\\storage\\\\jobs\\\\job_542a03edf09a\\\\source\\\\original.%(ext)s', 'https://www.douyin.com/user/MS4wLjABAAAA39e1alasD7-Jiv_4_49QGFlFSKr2eq80AgSTlwW_Y8qopzIzTSxrXFp1hfaObK21?modal_id=7132823506349329678']' returned non-zero exit status 1.",
+      "updatedAt": "2026-04-10T14:26:42.784970+00:00"
+    }
+  ]
+}
